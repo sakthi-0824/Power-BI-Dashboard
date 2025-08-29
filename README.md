@@ -25,3 +25,4 @@ The objective of this project is to analyze and visualize POCSO case data across
 - Interpreted visual data to identify critical trends, such as high pendency rates or efficient states, and provided recommendations for action.
 
 ## Dashboard
+<img width="914" height="501" alt="Screenshot 2025-08-29 154515" src="https://github.com/user-attachments/assets/c32c16a0-f957-4267-9074-db07fbc7df5f" />
