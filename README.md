@@ -1,2 +1,4 @@
-# Power-BI-Dashboard
-This dashboard presents a visual analysis of POCSO (Protection of Children from Sexual Offences) cases in India. It highlights total registered, exclusive, disposed, and pending cases. State-wise comparisons show regions with the highest case volumes and disposal gaps. The objective is to support awareness,policy decisions, and judicial efficiency.
+# Analysis of POCSO Cases in India
+
+## Objective:
+The objective of this project is to analyze and visualize POCSO case data across India. It aims to identify trends in case registration, disposal, and pendency at the state level. This helps support data-driven decisions for policy and judicial improvements.
