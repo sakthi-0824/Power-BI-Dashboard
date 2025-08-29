@@ -23,3 +23,5 @@ The objective of this project is to analyze and visualize POCSO case data across
 
 ### Insight Generation & Reporting
 - Interpreted visual data to identify critical trends, such as high pendency rates or efficient states, and provided recommendations for action.
+
+## Dashboard
