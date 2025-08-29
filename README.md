@@ -26,3 +26,13 @@ The objective of this project is to analyze and visualize POCSO case data across
 
 ## Dashboard
 <img width="914" height="501" alt="Screenshot 2025-08-29 154515" src="https://github.com/user-attachments/assets/c32c16a0-f957-4267-9074-db07fbc7df5f" />
+
+## Project Insights:
+
+- High Pendency Rate: Over 45% of POCSO cases remain pending, indicating delays in judicial processes across many states.
+
+- Regional Disparities: States like Uttar Pradesh and Maharashtra report the highest number of registered cases, showing concentrated regions of concern.
+
+- Low Exclusive Case Count: Very few cases (less than 1%) are registered exclusively under the POCSO Act, often bundled with other IPC sections.
+
+- Disposal Efficiency Gaps: Some states show high registration but poor disposal rates, suggesting the need for stronger judicial infrastructure and faster case handling.
